@@ -1,0 +1,157 @@
+@media (min-width:900px) {
+    body{
+        background-color: brown;
+    }
+    .headerdetails{
+        
+        width: 600px;
+    }
+    .at{
+        font-size: 40px;
+    }
+}
+body{
+    padding: 0px ;
+    background-image: url("combination-circuit-head-shape-artificial-intelligence-moral-electronic-world-illustration_456031-123.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgba(224, 92, 92, 0.5);
+ 
+    
+
+}
+.headerdetails{
+    width: 100%;
+    height: 150px;
+    background-color: white;
+}
+
+
+.clg_name{
+    height: 1000px;
+    width: 1000px;
+    position: relative;
+    left: 81%;
+    top: 50px;
+    
+    border-radius: 100%;
+}
+.aicte, .jntuh, .naac{
+    height: 300px;
+    position: relative;
+    width: 300px;
+    top: 400px;
+    left: 65%;
+    padding: 20px;
+   
+}
+.ccode {
+    font-weight: bold;
+    font-size: 100px;
+    color: blue;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-name: C_code;
+    position: relative;
+    
+}
+.cc{
+
+    font-size: 60px;
+    position: relative;
+    
+    color: white;
+}
+.bd{
+    width: 100%;
+   
+}
+.at{
+    padding: 100px;
+    font-size: 70px ;
+    position: relative;
+    left: 2220px;
+    top: 30px;
+    color: red;
+    font-family: 'Roboto Mono', monospace;
+}
+.enq{
+    background-color: firebrick;
+    position: relative;
+    left: 87%;
+    width: 700px;
+    animation-name: enqcol;
+    animation-duration: 2s;
+    height: 150px;
+    animation-iteration-count: infinite;
+    bottom: 90px;
+}
+@keyframes enqcol {
+    from{background-color: red;}
+    to{background-color: rgb(49, 152, 26);}
+}
+.ae{
+    font-size: 80px;
+    color: white;
+    position: relative;
+    left: 55px;
+    top: 20px;
+   
+}
+
+.desc{
+    background-color: white;
+    width: 95%;
+    position: relative;
+    top: 420px;
+    height: 150px;
+    border-radius: 80px;
+    left: 150px;
+
+}
+.aa{
+    padding: 200px;
+    font-size: 70px ;
+    position: relative;
+    left: 800px;
+    top: 30px;
+    color: rgb(0, 17, 255);
+    font-family: 'Roboto Mono', monospace;
+}
+.smiddle{
+    height: 1000px;
+    width: 2000px;
+    position: relative;
+    left: 60%;
+    top:660px ;
+    opacity: 0.5;
+}
+.sleft{
+    height: 1000px;
+    position: relative;
+    top: 660px;
+    width: 2000px;
+    opacity: 0.8;
+   right: 26%;
+}
+.sright{
+    height: 1200px;
+    width: 2500px;
+    position: relative;
+    bottom: 450px;
+    left: 1750px;
+    box-shadow:  50px 50px 8px  rgba(0, 0, 0, 0.445);
+    
+}
+.larrow{
+    height: 150px;
+    width: 100px;
+    position: relative;
+    rotate: 180deg;
+    bottom: 1000px;
+    right: 2500px;
+}
+.rarrow{
+    height: 150px;
+    width: 100px;
+}
